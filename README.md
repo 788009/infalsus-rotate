@@ -18,7 +18,7 @@
 
 ```bash
 git clone https://github.com/788009/infalsus-rotate.git
-cd infalsus-head-tracker
+cd infalsus-rotate
 pip install -r requirements.txt
 ```
 

@@ -94,7 +94,7 @@ python accelerometer-phone.py
 
 ## 原理与评价
 
-手机上使用 `termux-sensor` 命令实时获取手机旋转角度并通过 UDP 发送给电脑，电脑将其映射到光标位置。
+手机上使用 `termux-sensor` 命令实时获取手机旋转数据并通过 UDP 发送给电脑，电脑将其映射到光标位置。
 
 ### 陀螺仪
 
